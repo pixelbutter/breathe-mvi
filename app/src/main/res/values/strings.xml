@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">BreatheMvi</string>
+    <string name="app_name">MVI Sample</string>
+
+    <string name="error_retrieving_data">Error retrieving results. :(</string>
 </resources>
