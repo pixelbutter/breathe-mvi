@@ -1,4 +1,4 @@
-package com.mvipoc;
+package com.mvi;
 
 public final class Constants {
 

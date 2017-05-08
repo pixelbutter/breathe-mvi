@@ -1,4 +1,4 @@
-package com.mvipoc;
+package com.mvi;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -11,8 +11,8 @@ import android.widget.TextView;
 
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import com.jakewharton.rxbinding2.view.RxView;
-import com.mvipoc.network.AqService;
-import com.mvipoc.network.model.MeasurementResponse;
+import com.mvi.network.AqService;
+import com.mvi.network.model.MeasurementResponse;
 
 import java.util.concurrent.TimeUnit;
 
@@ -25,7 +25,7 @@ import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.schedulers.Schedulers;
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
-import pixelbutter.com.breathemvi.R;
+import pixelbutter.com.mvi.R;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 

@@ -1,8 +1,8 @@
-package com.mvipoc;
+package com.mvi;
 
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
-import com.mvipoc.network.AqService;
-import com.mvipoc.network.model.MeasurementResponse;
+import com.mvi.network.AqService;
+import com.mvi.network.model.MeasurementResponse;
 
 import io.reactivex.Observable;
 import okhttp3.OkHttpClient;

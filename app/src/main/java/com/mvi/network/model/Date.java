@@ -1,4 +1,4 @@
-package com.mvipoc.network.model;
+package com.mvi.network.model;
 
 import com.google.gson.annotations.SerializedName;
 

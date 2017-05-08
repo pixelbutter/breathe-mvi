@@ -1,7 +1,7 @@
-package com.mvipoc.network;
+package com.mvi.network;
 
 import io.reactivex.Observable;
-import com.mvipoc.network.model.MeasurementResponse;
+import com.mvi.network.model.MeasurementResponse;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
 

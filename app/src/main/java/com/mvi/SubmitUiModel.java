@@ -1,6 +1,6 @@
-package com.mvipoc;
+package com.mvi;
 
-import com.mvipoc.network.model.MeasurementResponse;
+import com.mvi.network.model.MeasurementResponse;
 
 // pojo that represents all data displayed in UI. a.k.a "UIModel"
 final class SubmitUiModel extends BaseUiModel<MeasurementResponse> {
