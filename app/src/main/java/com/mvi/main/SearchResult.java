@@ -1,8 +1,9 @@
-package com.mvi;
+package com.mvi.main;
 
 import android.support.annotation.Nullable;
 import android.util.Log;
 
+import com.mvi.Constants;
 import com.mvi.network.model.MeasurementResponse;
 
 final class SearchResult {

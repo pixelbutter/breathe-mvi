@@ -1,6 +1,8 @@
-package com.mvi;
+package com.mvi.main;
 
 import android.util.Log;
+
+import com.mvi.Constants;
 
 final class SubmitEvent {
     private String cityName;

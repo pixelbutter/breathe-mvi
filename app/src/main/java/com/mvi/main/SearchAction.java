@@ -1,4 +1,4 @@
-package com.mvi;
+package com.mvi.main;
 
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import com.mvi.network.AqService;

@@ -19,7 +19,7 @@
         <RadioButton android:id="@+id/radioOption2"
                      android:layout_width="wrap_content"
                      android:layout_height="wrap_content"
-                     android:text="Chicago"/>
+                     android:text="London"/>
     </RadioGroup>
 
     <Button android:id="@+id/button"
